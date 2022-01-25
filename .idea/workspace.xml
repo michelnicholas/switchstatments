@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc61edc4-b34e-4d09-be69-7b6e4416012c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NumberInWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NumberOfDaysInMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DayOfTheWeekChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DayOfTheWeekChallenge.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.DayOfTheWeekChallenge">
+  <component name="RunManager" selected="Application.NumberOfDaysInMonth">
     <configuration name="DayOfTheWeekChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DayOfTheWeekChallenge" />
       <module name="SwitchStatements" />
@@ -58,8 +59,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberOfDaysInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberOfDaysInMonth" />
+      <module name="SwitchStatements" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOfDaysInMonth" />
         <item itemvalue="Application.DayOfTheWeekChallenge" />
         <item itemvalue="Application.Main" />
       </list>
